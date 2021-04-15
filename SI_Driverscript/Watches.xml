@@ -1,0 +1,9 @@
+﻿<Properties>
+  <WatchEntry0 value="DataTable.value(&quot;Policy Number&quot;,&quot;Sheet1 (2)&quot;)" />
+  <WatchEntry1 value="SI_resultsFolder" />
+  <WatchEntry2 value="Environment.Value(&quot;EndSec&quot;)" />
+  <WatchEntry3 value="Environment.Value(&quot;startSec&quot;)" />
+  <WatchEntry4 value="Environment.Value(&quot;EndMin&quot;)" />
+  <WatchEntry5 value="Environment.Value(&quot;startMin&quot;)" />
+  <WatchEntry6 value="timestamp" />
+</Properties>

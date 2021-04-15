@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Environment>
+    <Variable>
+        <Name>Uname</Name>
+        <Value>MM09713</Value>
+	   </Variable>
+	<Variable>
+	<Name>Password</Name>
+     <Value>5fb642b7fb5f1dc3af5bd2a9534b211fbd8418200d01</Value>         	</Variable>
+    </Environment>
